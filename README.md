@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Simon👋<br><br>🏛️ CIO at the State Parliament of Fribourg, Switzerland  <br>💻 Passionate about automation, DevSecOps & IT infrastructure  <br>🛠️ Building tools for institutional environments & side projects  <br>🌱 Interested in network security, home automation & scripting  <br>📫 Reach me at: [parlinfo.fr.ch](https://www.parlinfo.fr.ch)
+Hi there, I'm Simon👋<br><br>🏛️ CIO at the State Parliament of Fribourg, Switzerland  <br>💻 Passionate about automation, DevSecOps & IT infrastructure  <br>🛠️ Building tools for institutional environments & side projects  <br>🌱 Interested in network security, home automation & scripting
 
 
 # 💻 Tech Stack:
